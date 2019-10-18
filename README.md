@@ -4,7 +4,7 @@ Overwatch League is a global esports league with 20 teams from 6 countries. Over
 
 # Meet The Teams
 - **Atlanta** Reign
-![reign logo](https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Atlanta_Reign_logo.svg/1200px-Atlanta_Reign_logo.svg.png)
+
 - **Boston** Uprising 
 
 - **Chengdu** Hunters
