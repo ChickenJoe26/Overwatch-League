@@ -55,3 +55,9 @@ After 2 seasons in LA overwatch league is going local with each team having at l
 
 *Nate Nanzer - Former Overwatch League Commissioner:*
 >“The Overwatch League is coming home – and away! Starting in 2020, all Overwatch League teams will be playing in their home cities.”
+
+## Important Dates
+1. End of season 2 (September 29th 2019)
+2. Free Agency Starts (October 7th 2019)
+3. Season Starts (February 8th 2020)
+4. Regular Season Ends (August 9th 2020)
